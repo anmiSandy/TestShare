@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestShare</string>
+
+    <string name="ok">OK</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">Post ID: %1$s</string>
+    <string name="error">Error</string>
+    <string name="app_id">355198514515820</string>
+    <string name="fb_login_protocol_scheme">fb355198514515820</string>
+</resources>
